@@ -1,8 +1,6 @@
-### Date created
-Include the date you created this project and README file.
+The documentation is created on 17th July 2019.
 
-### Project Title
-Replace the Project Title
+The project is about bike share data manipulation using python.
 
 ### Description
 Describe what your project is about and what it does
