@@ -6,6 +6,5 @@ The project is completely about how pythonis used for manipulation of the data i
 
 There is only file for data manipulation. That is the python file
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+I have done this project based on the information learnt from the Udacity Site
 
