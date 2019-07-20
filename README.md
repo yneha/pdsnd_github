@@ -32,7 +32,7 @@ Credits:
 I have done this project based on the information learnt from the Udacity Site
 
 
-Project Title- Bike Share Python project
+Bike Share Python project
 =======
 
 Resources referred to complete this project:
@@ -45,6 +45,9 @@ Concatenate strings of two columns:
 
 https://stackoverflow.com/questions/19377969/combine-two-columns-of-text-in-dataframe-in-pandas-python
 
+Add a day to a date:
+
+http://www.pressthered.com/adding_dates_and_times_in_python/
 
 
 
