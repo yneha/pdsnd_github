@@ -25,6 +25,9 @@ What are the counts of each user type?
 What are the counts of gender?
 What are the earliest (i.e. oldest person), most recent (i.e. youngest person), and most popular birth years?
 
+Input:
+The user input to be given in the numerical format where the user will enter which data set he wants to choose or which day he wants to get the data for or if he wants to get for all the 7 days. Based on the input given by the user the data manipulation is done and the above questions are answered to the user.
+
 Credits:
 I have done this project based on the information learnt from the Udacity Site
 
